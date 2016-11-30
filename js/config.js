@@ -12,8 +12,8 @@ Leave it blank to use text instead*/
 var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
-Leave it blank for automatic server name
-var l_serverName = "SNAZZY RP";
+Leave it blank for automatic server name*/
+var l_serverName = "";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -111,7 +111,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Donate to earn cool abilities ",
+"Enjoy the server",
 "Thanks for joining us!",
 "Did you know this server was fucking hard to make?"
 ];
@@ -126,3 +126,4 @@ var l_messagesDelay = 5000;
 /*Messages fade time
 in milliseconds*/
 var l_messagesFade = 1000;
+
